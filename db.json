@@ -1,4 +1,22 @@
 {
   "pacijenti": [
+    {
+      "imePrezime": "Uros Mrakovic",
+      "adresa": "Busena Bukica",
+      "brojLK": "531531",
+      "brojTelefona": "06412112",
+      "datumRodjenja": "2002-04-16",
+      "izabraniLekar": "Nataša Djorić",
+      "pol": "Muško"
+    },
+    {
+      "imePrezime": "Uros Bukvic",
+      "adresa": "Buseana Bukaica",
+      "brojLK": "531531",
+      "brojTelefona": "064112112",
+      "datumRodjenja": "2003-04-16",
+      "izabraniLekar": "Milica Djorić",
+      "pol": "Muško"
+    },
   ]
 }
